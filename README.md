@@ -1,2 +1,1 @@
-# DU-Portfolio
-Portfolio
+# week2-homework
