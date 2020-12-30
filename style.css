@@ -7,4 +7,8 @@ footer {
     color: white;
     text-align: center;
   }
-  
+
+  body {
+    background-image: url(Assets/swissmountains.jpg);
+    background-color: #cccccc;
+  }
